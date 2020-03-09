@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  janusgraph:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-09T15:42:40.758764242-05:00"
+    description: Open source, scalable graph database.
+    digest: 08f2fa7d2d8b0125a1ea4701b46b598621e3b4d4ba2194b5e5590c46beb52ce7
+    home: http://janusgraph.org
+    icon: https://raw.githubusercontent.com/JanusGraph/janusgraph/master/janusgraph.png
+    maintainers:
+    - email: samiz@google.com
+      name: samizuh
+    name: janusgraph
+    sources:
+    - https://github.com/JanusGraph/janusgraph
+    urls:
+    - janusgraph-0.4.1.tgz
+    version: 0.4.1
+generated: "2020-03-09T15:42:40.756589431-05:00"
